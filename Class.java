@@ -2,7 +2,7 @@ class Demo
 {
   public int double(int x)
   {
-    return x*2;
+    return x*x;
   }
   public static void main (String args[])
     {
